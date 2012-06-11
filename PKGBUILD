@@ -1,5 +1,5 @@
 _name=SVG
-pkgname="${_name,,}"
+pkgname=svg
 _ver=1.1
 pkgver=${_ver}+edition2
 pkgrel=1
